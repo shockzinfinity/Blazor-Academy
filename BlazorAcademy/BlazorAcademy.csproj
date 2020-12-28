@@ -17,4 +17,7 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="5.0.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Content Remove="wwwroot\full-width %28복사본%29.html" />
+  </ItemGroup>
 </Project>
