@@ -20,4 +20,7 @@
   <ItemGroup>
     <Content Remove="wwwroot\full-width %28복사본%29.html" />
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Pages\Portfolios\" />
+  </ItemGroup>
 </Project>
